@@ -19,3 +19,5 @@ I used the amazing generator-webapp as a starting point for this site, and added
 - Run `npm run serve:dist` to preview the production build
 - Run `npm run serve:dist -- --port=5000` to preview the production build in port `5000`
 
+### Visual inspection here:
+https://stacysh.github.io/CV-v1.0/#contact
